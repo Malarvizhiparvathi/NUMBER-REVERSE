@@ -1,4 +1,4 @@
-n=int(input("")
+n=int(input(""))
 rev=0
 while(n>0):
     rem=n%10
